@@ -6,7 +6,7 @@
 
 ## 📝 NOTA!!
 
-**Pendiente de mejora de código. Código realizado a mediados del 2024
+**Pendiente de mejora de código**. Código realizado a mediados del 2024
 
 ---
 
