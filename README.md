@@ -63,7 +63,7 @@
 
 ---
 
-##🤝 Contribuciones
+## 🤝 Contribuciones
 
 1. Haz un fork del repositorio.
 2. Crea una rama para tu funcionalidad:
