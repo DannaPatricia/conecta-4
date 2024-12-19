@@ -4,6 +4,12 @@
 
 ---
 
+## 📝 NOTA!!
+
+**Pendiente de mejora de código. Código realizado a mediados del 2024
+
+---
+
 ## ✨ Descripción del Proyecto  
 
 **Conecta 4** es un juego para dos jugadores donde el objetivo es alinear cuatro fichas consecutivas en el tablero, ya sea en línea horizontal, vertical o diagonal. Este proyecto incluye:  
