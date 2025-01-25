@@ -56,7 +56,20 @@
 
 ## 🎨 Capturas de Pantalla
 
-(Pendiente)
+1. **Inicio**:
+<div align = "center">
+   <img width = "850px" src = "./imagenesConecta/inicio.png" alt = "inicio">
+</div>
+
+ 2. **Juego**:
+<div align = "center">
+   <img width = "850px" src = "./imagenesConecta/juego.png" alt = "juego">
+</div>
+
+ 3. **Victoria de jugador**:
+<div align = "center">
+   <img width = "850px" src = "./imagenesConecta/victoria.png" alt = "victoria">
+</div>
 
 ---
 
