@@ -1,7 +1,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
 # 🎮 Proyecto: Conecta 4  
 
-¡Bienvenido/a! Este repositorio contiene una implementación del clásico juego de **Conecta 4**, desarrollado con **HTML**, **CSS** y **JavaScript**. Es un proyecto realizado como práctica en 2º DAW para mejorar habilidades en desarrollo web.  
+¡Bienvenido/a! Este repositorio contiene una implementación del clásico juego de **Conecta 4**, desarrollado con **HTML**, **CSS** y **JavaScript**. Es un proyecto realizado como práctica en 1º DAW para mejorar habilidades en desarrollo web.  
 
 ---
 
